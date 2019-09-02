@@ -1,0 +1,17 @@
+html
+{
+  width: 100%';'
+}
+
+body
+{
+  width: 100%;
+  background: darkgrey;
+}
+
+h1
+{
+  text-align: center;
+  color: darkblue;
+  background: darkgrey;
+}
